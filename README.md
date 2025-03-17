@@ -17,7 +17,7 @@ I'm a passionate **AI/ML & Blockchain Developer** with a strong interest in **Da
 - Built on **Polygon (MATIC)** blockchain
 - Features **NFT Wallet, Resale Marketplace, Dynamic Pricing**
 - Tech Stack: **React, Flask, Solidity, Web3.js**  
-[🔗 GitHub Repo](#) | [🔗 Live Demo](#)
+[🔗 GitHub Repo](https://github.com/yash-yewale/BharatArchives) | [🔗 Live Demo](#)
 
 #### **2️⃣ Topic-Based MCQ Generator (AI-powered)**
 - Generates **aptitude & technical MCQs** using NLP & AI
