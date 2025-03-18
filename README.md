@@ -42,8 +42,8 @@ Includes a login system for user authentication and tracking waste disposal hist
 ---
 
 ### 📊 GitHub Stats & Contributions  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-yewe&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-yew&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-yewale&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-yewale&layout=compact&theme=radical)  
 
 ---
 
