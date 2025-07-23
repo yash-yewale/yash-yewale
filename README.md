@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yash Yewale](https://www.linkedin.com/in/yash-yewale-1019b32ab/) 👋🚀  
 
-![Banner](https://your-direct-image-link](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg](https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png)
+![Banner](https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png)
 
 
 ### 💡 About Me
