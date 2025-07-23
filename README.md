@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yash Yewale](https://www.linkedin.com/in/yash-yewale-1019b32ab/) 👋🚀  
 
-![Banner](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)  
+![Banner]([https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmist941&psig=AOvVaw1MMFD_E273VgGJIat6s50a&ust=1753339121302000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCXwMuv0o4DFQAAAAAdAAAAABAE))  
 
 ### 💡 About Me
 I'm a passionate **AI/ML & Blockchain Developer** with a strong interest in **Data Science, Web Development, and Crypto Innovations**. I love solving problems with **Machine Learning, Deep Learning, and Web3 technologies**. Currently, I'm building **BharatArchives**, a decentralized NFT-based platform to preserve India's rich cultural heritage. 🏛️🔥  
